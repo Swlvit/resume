@@ -9,19 +9,19 @@
 ####
 
 basics:
-  name: "John Doe"
-  label: "Business analyst extraordinaire"
+  name: "Bill Orrison"
+  label: "Network Administrator/Help Desk"
   image: "https://bradczerniak.com/apple-touch-icon.png"
-  summary: "Business analyst and creative problem-solver. Looking for challenges"
+  summary: "I’m a technical support engineer driven by customer satisfaction and problem - solving, experienced in effective communication and resourcefulness. I’ve experience in system administration, computer operations, customer service, proven complex problem resolution and maintaining SLA. If their’s no resource to reference, I figure it out."
   website: "https://example.com"
-  email: "johndoe@example.com"
-  phone: "(248) 721-0350"
+  email: "swlvit@gmail.com"
+  phone: "(702) 666-3667"
   location:
-    address: "1428 Mark Ave"
-    postalCode: "MI 48146"
-    city: "Lincoln Park"
+    address: "4733 E. Harmon Ave"
+    postalCode: "NV 89121"
+    city: "Las Vegas"
     countryCode: "US"
-    region: "Michigan"
+    region: "Nevada"
   profiles:
     - network: "Twitter"
       username: "ao5357"
@@ -30,9 +30,9 @@ basics:
       username: "bczerniak"
       url: "https://www.linkedin.com/in/bczerniak"
 work:
-  - company: "Kingston Enterprises (Midas)"
-    position: "Lubrication technician"
-    website: "https://www.midas.com/detroit/store.aspx?shopnum=6754&dmanum=264"
+  - company: "Seppi Technology Assoc"
+    position: "IT Support Specialist"
+    website: "https://seppitechnologyassociates.com"
     location:
       address: "2995 East Big Beaver Road"
       postalCode: "MI 48083"
@@ -41,7 +41,7 @@ work:
       region: "Michigan"
     startDate: "2000-05-01"
     endDate: "2000-10-31"
-    summary: "Performed oil changes, assisted the mechanics with brakes, exhaust, and other repairs, and cleaned the shop."
+    summary: "Helping companies transition from film and paper based MRI/CT/Xray systems -> Modern digital, web based technologies. Allowing Dr.'s to read remotely for many facilities. VPN's, SQL database's, web based, digitizing paper/films, PACS, etc"
     highlights:
       - "Reliably worked 56-hour weeks for the whole summer"
       - "Implemented a system for tracking brake shoe reclamation"
